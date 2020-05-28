@@ -1003,7 +1003,7 @@ INSERT INTO `localidades_postales` (`id`, `provincia_id`, `localidad`, `codigo_p
 ('980', '22', 'Pescado Bono', '57106', '', '1'),
 ('981', '22', 'Caada Honda', '57107', '', '1'),
 ('982', '22', 'Fundacion', '57201', '', '1'),
-('983', '22', '5', '57202', '', '1'),
+('983', '22', 'La Altagracia', '57202', '', '1'),
 ('984', '22', 'La Cabirma', '57203', '', '1'),
 ('985', '22', 'Hoya Grande', '57204', '', '1'),
 ('986', '22', 'Paradero', '57205', '', '1'),
@@ -1129,7 +1129,7 @@ INSERT INTO `localidades_postales` (`id`, `provincia_id`, `localidad`, `codigo_p
 ('1105', '30', 'El Rodeo', '64204', '', '1'),
 ('1106', '1', 'Barreras Dm', '71001', '', '1'),
 ('1107', '1', 'Clavellinas Dm', '71002', '', '1'),
-('1108', '1', '5', '71003', '', '1'),
+('1108', '1', 'La Altagracia', '71003', '', '1'),
 ('1109', '1', 'Las Lomas Dm', '71004', '', '1'),
 ('1110', '1', 'Los Jobillos Dm', '71005', '', '1'),
 ('1111', '1', 'Puerto Viejo', '71006', '', '1'),
@@ -2367,8 +2367,7 @@ INSERT INTO `localidades_postales` (`id`, `provincia_id`, `localidad`, `codigo_p
 ('2341', '4', 'Centro de la Ciudad', '63002', '', '1'),
 ('2342', '4', 'Plaza Beller', '63003', '', '1'),
 ('2343', '13', 'Mama Tingo', '23002', '', '1'),
-('2344', '19', 'Barrio La Ceja', '92001', '', '1'),
-('2345', '19', 'Barrio La Ceja', '92001', '', '1');
+('2344', '19', 'Barrio La Ceja', '92001', '', '1');
 
 
 /*!40101 SET SQL_MODE=@OLD_SQL_MODE */;
